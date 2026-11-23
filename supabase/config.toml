@@ -1,0 +1,2 @@
+[functions.pre-matricula]
+verify_jwt = false
